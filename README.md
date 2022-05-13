@@ -18,7 +18,10 @@ ASCII art is a form of digital art that uses ASCII code to create images. ASCII 
 - convert an image to ascii art image
 - convert short video clip to ascii art video
 - stream live video into ascii art video
-- tec1- output to terminal super fast baud rate ascii games to emulate video on
+- tec1- output to terminal super fast baud rate ascii games to emulate video on. the MC6850 can support upto 1Mbits of data output, ques is can the z80 feed it that fast.
+- 
+
+
 
 ### Ref
 - https://en.wikipedia.org/wiki/ASCII_art
@@ -26,4 +29,4 @@ ASCII art is a form of digital art that uses ASCII code to create images. ASCII 
 - http://www.figlet.org/
 - https://www.ascii-art-generator.org/
 - https://onlineasciitools.com/convert-text-to-ascii-art
-- 
+ 
