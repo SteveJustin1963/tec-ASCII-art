@@ -1,4 +1,4 @@
-# tec-SFAG
+# tec-ASCII-art
 
 ASCII art is a form of digital art that uses ASCII code to create images. ASCII art can be created with any text editor, and there are a number of sites that allow users to create and share ASCII art.
 - ASCII Art Generator 
