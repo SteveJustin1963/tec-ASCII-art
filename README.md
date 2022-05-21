@@ -3,10 +3,11 @@
 ASCII is digital code for characters generation. A favourite of old BBS. 
 - Line art, brail, iso, mech, geometrics... 
 
+![images](https://user-images.githubusercontent.com/58069246/169634998-ec07161c-d9bf-4dce-ad51-b07e0a27e095.jpg)
 ![download](https://user-images.githubusercontent.com/58069246/169634894-b74947b3-7fca-4750-ba8c-e6a63040b52f.png)
 ![download](https://user-images.githubusercontent.com/58069246/169634723-a84a6b11-3372-45b0-8d94-8cecae4530c0.png)
-![download](https://user-images.githubusercontent.com/580
 ![images](https://user-images.githubusercontent.com/58069246/169634983-b648742b-ae01-4a5f-85ca-fec676899552.jpg)
+
 
 
 ![download](https://user-images.githubusercontent.com/58069246/169634838-00a91e28-04fd-4007-a7fe-715dd0e07b71.jpg)
@@ -18,7 +19,8 @@ ASCII is digital code for characters generation. A favourite of old BBS.
 ### created with 
 - any text editor
 - cloud apps; ASCII Art Generator, FIGlet, Text ASCII Art
-- within a program
+- within a program; https://github.com/Wren6991/asciiwave#asciiwave-wavedrom-to-ascii-art, https://wavedrom.com/tutorial.html, 
+- 
 
 ### creating ASCII art:
 1. Use simple shapes and lines to create your image.
