@@ -16,8 +16,12 @@ Density and grey scale
 Inline java rendering into web client
 - WaveDrom 
 
-STL to ASCII
+STL to ASCII, similar to CAD mesh
 - https://andrewsink.github.io/STL-to-ASCII-Generator/ 
+
+![download](https://user-images.githubusercontent.com/58069246/169635321-4d1ad49c-9859-45ae-a698-6b4228d07e4a.jpg)
+![download](https://user-images.githubusercontent.com/58069246/169635329-fb8fdbfc-509c-48a4-98b9-a555f18dcd9b.jpg)
+
 
 ### created with 
 - any text editor
