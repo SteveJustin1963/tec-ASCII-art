@@ -1,11 +1,15 @@
 # tec-ASCII-art
 
-ASCII is digital code for characters generation. It can create images as iso, mech, geometric etc 
+ASCII is digital code for characters generation. A favourite of old BBS. 
+- Line art, brail, iso, mech, geometrics... 
 
+![download](https://user-images.githubusercontent.com/58069246/169634894-b74947b3-7fca-4750-ba8c-e6a63040b52f.png)
 ![download](https://user-images.githubusercontent.com/58069246/169634723-a84a6b11-3372-45b0-8d94-8cecae4530c0.png)
+![download](https://user-images.githubusercontent.com/58069246/169634886-d9b375e7-992c-45b4-a592-3c2cbc6d5a61.png)
 
-or as a grey scale of density. 
-
+- Grey scale / density 
+![download](https://user-images.githubusercontent.com/58069246/169634838-00a91e28-04fd-4007-a7fe-715dd0e07b71.jpg)
+![images](https://user-images.githubusercontent.com/58069246/169634843-4220d0ff-f13a-4269-b380-b2bcbf4f4cb5.jpg)
 ![download](https://user-images.githubusercontent.com/58069246/169634746-28e6fbfc-af49-4e16-8b91-8dce05d53833.jpg)
 
 
