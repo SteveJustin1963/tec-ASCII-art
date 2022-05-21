@@ -6,10 +6,8 @@ ASCII is digital code for characters generation. A favourite of old BBS.
 ![download](https://user-images.githubusercontent.com/58069246/169634894-b74947b3-7fca-4750-ba8c-e6a63040b52f.png)
 ![download](https://user-images.githubusercontent.com/58069246/169634723-a84a6b11-3372-45b0-8d94-8cecae4530c0.png)
 ![download](https://user-images.githubusercontent.com/580
-![images](https://user-images.githubusercontent.com/58069246/169634969-c4d44410-e8c6-4c8c-9965-4e144db07876.jpg)
-69246/169634886-d9b375e7-992c-45b4-a592-3c2cbc6d5a61.png)
+![images](https://user-images.githubusercontent.com/58069246/169634983-b648742b-ae01-4a5f-85ca-fec676899552.jpg)
 
-- Grey scale / density 
 
 ![download](https://user-images.githubusercontent.com/58069246/169634838-00a91e28-04fd-4007-a7fe-715dd0e07b71.jpg)
 ![images](https://user-images.githubusercontent.com/58069246/169634843-4220d0ff-f13a-4269-b380-b2bcbf4f4cb5.jpg)
