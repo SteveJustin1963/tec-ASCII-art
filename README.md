@@ -1,6 +1,14 @@
 # tec-ASCII-art
 
-ASCII art is a form of digital art that uses ASCII code to create images. ASCII art can be created with any text editor, and there are a number of sites that allow users to create and share ASCII art.
+ASCII is digital code for characters generation. It can create images as iso, mech, geometric etc 
+![download](https://user-images.githubusercontent.com/58069246/169634723-a84a6b11-3372-45b0-8d94-8cecae4530c0.png)
+
+or as a grey scale of density. 
+![download](https://user-images.githubusercontent.com/58069246/169634746-28e6fbfc-af49-4e16-8b91-8dce05d53833.jpg)
+
+
+
+, it can be created with any text editor, and there are a number of sites that allow users to create and share ASCII art.
 - ASCII Art Generator 
 - FIGlet 
 - Text ASCII Art
@@ -24,6 +32,7 @@ ASCII art is a form of digital art that uses ASCII code to create images. ASCII 
 
 
 ### Ref
+- https://en.wikipedia.org/wiki/ASCII
 - https://en.wikipedia.org/wiki/ASCII_art
 - https://patorjk.com/software/taag/
 - http://www.figlet.org/
