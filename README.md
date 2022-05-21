@@ -5,7 +5,9 @@ ASCII is digital code for characters generation. A favourite of old BBS.
 
 ![download](https://user-images.githubusercontent.com/58069246/169634894-b74947b3-7fca-4750-ba8c-e6a63040b52f.png)
 ![download](https://user-images.githubusercontent.com/58069246/169634723-a84a6b11-3372-45b0-8d94-8cecae4530c0.png)
-![download](https://user-images.githubusercontent.com/58069246/169634886-d9b375e7-992c-45b4-a592-3c2cbc6d5a61.png)
+![download](https://user-images.githubusercontent.com/580
+![images](https://user-images.githubusercontent.com/58069246/169634969-c4d44410-e8c6-4c8c-9965-4e144db07876.jpg)
+69246/169634886-d9b375e7-992c-45b4-a592-3c2cbc6d5a61.png)
 
 - Grey scale / density 
 
@@ -15,10 +17,10 @@ ASCII is digital code for characters generation. A favourite of old BBS.
 
 
 
-, it can be created with any text editor, and there are a number of sites that allow users to create and share ASCII art.
-- ASCII Art Generator 
-- FIGlet 
-- Text ASCII Art
+### created with 
+- any text editor
+- cloud apps; ASCII Art Generator, FIGlet, Text ASCII Art
+- within a program
 
 ### creating ASCII art:
 1. Use simple shapes and lines to create your image.
