@@ -1,6 +1,7 @@
 # tec-ASCII-art
 
-## ASCII is digital code for characters generation. A favourite of old BBS. Line art, brail, iso, mech, geometrics... 
+## ASCII is digital code 
+for characters generation. A favourite of old BBS. Line art, brail, iso, mech, geometrics... 
 
 ![images](https://user-images.githubusercontent.com/58069246/169634998-ec07161c-d9bf-4dce-ad51-b07e0a27e095.jpg)
 ![download](https://user-images.githubusercontent.com/58069246/169634894-b74947b3-7fca-4750-ba8c-e6a63040b52f.png)
